@@ -1,0 +1,17 @@
+*** version 0.0.5 2008-07-09
+included check for ActionController on require
+
+*** version 0.0.4 2008-07-08
+added Mime-Types addition to README
+added HISTORY file
+
+*** version 0.0.3 2008-07-07
+nicer README file
+moved code into module Aaalex
+
+*** version 0.0.2 2008-07-06
+made automatic Gem generation work on GitHub
+
+*** version 0.0.1 2008-07-06
+extracted the code from RoR application into seperate Gem
+put on GitHub
